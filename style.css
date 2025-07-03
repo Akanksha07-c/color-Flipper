@@ -1,0 +1,17 @@
+.container{
+    height: 250px;
+    width: 400px;
+    border: 1px solid black;
+   }
+.cont{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    gap: 15px;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border: 0.2px solid black;
+}
